@@ -1,12 +1,11 @@
-# Getting Started with Create React App
+### Prerequisites
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Before you begin, ensure you have met the following requirements:
 
-Install CORS extension in your Web browser.
+- Node.js and npm installed on your development machine.
+- Install CORS extension in your Web browser.
 
-## Available Scripts
-
-In the project directory, you can run:
+After that In the project directory, you can run:
 
 ### `npm install`
 
