@@ -18,7 +18,7 @@ const RestaurantCard = ({
       <h2 className="font-bold text-xl my-1 ">{name}</h2>
       <h5>{cuisines.join(", ")}</h5>
       <h4>{avgRatingString} Stars</h4>
-      <h5 className="font-bold">{user.name}</h5>
+      // <h5 className="font-bold">{user.name}</h5>
     </div>
   );
 };
